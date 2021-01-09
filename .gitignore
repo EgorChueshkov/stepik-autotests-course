@@ -1,5 +1,7 @@
-
 .idea
 interesting
 venv
 main.py
+examples
+geckodriver.log
+__pycache__
